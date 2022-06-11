@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "id" : 1,
+      "name" : "HRX by Hritik Roshan",
+      "type" : "Cotton",
+      "price" : 349,
+      "brand" : "HRX",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700944/2022/3/2/093bc645-d461-4128-94a1-0692803944141646215571321-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Cotton-Pure-Cotton--1.jpg"
+    },
+    {
+      "id" : 2,
+      "name" : "Roadstar white T-shirt",
+      "type" : "Cotton",
+      "price" : 274,
+      "brand" : "Roadster",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2275365/2019/9/10/4f24f563-c764-4f27-9fc5-9ad3dcf167621568108715062-Roadster-Men-White-Solid-Round-Neck-T-shirt-1641568108713591-1.jpg"
+    },
+    {
+      "id" : 3,
+      "name" : "H&M white T-shirt",
+      "type" : "Cotton",
+      "price" : 399,
+      "brand" : "H&M",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/5/6/8cd552e0-3335-423a-9d15-7ef0a52c30a81620304671157-1.jpg"
+    },
+    {
+      "id" : 4,
+      "name" : "HRX by Hritik Roshan",
+      "type" : "Cotton",
+      "price" : 279,
+      "brand" : "HRX",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg"
+    },
+    {
+      "id" : 5,
+      "name" : "Men Typo Printed T-shirt",
+      "type" : "NO-Cotton",
+      "price" : 319,
+      "brand" : "Roadster",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1997244/2022/5/27/bf0e755f-1940-4a1d-8fb2-85b327deea981653647065669-Roadster-Men-Grey-Melange-All-Over-Printed-T-shirt-331653647-1.jpg"
+    },
+    {
+      "id" : 6,
+      "name" : "Solid Round neck t-shirt",
+      "type" : "NO-Cotton",
+      "price" : 188,
+      "brand" : "HEAR&NOW",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12787018/2020/11/26/68fe415e-d7b0-40fd-b065-e379508f94ef1606391813863-HERENOW-Men-Tshirts-91606391812648-1.jpg"
+    },
+    {
+      "id" : 7,
+      "name" : "Men pure Cotton t-shirt",
+      "type" : "Cotton",
+      "price" : 1559,
+      "brand" : "Nautica",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11487342/2020/6/17/e3958d19-7c4b-49ce-8a5c-e82ed6e6ef321592396334332-Nautica-Men-Tshirts-721592396332125-1.jpg"
+    },
+    {
+      "id" : 8,
+      "name" : "Printed Rround Neck T-Shirt",
+      "type" : "NO-Cotton",
+      "price" : 398,
+      "brand" : "Roadster",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10940528/2020/2/13/3e484090-d487-4252-9f30-beab10ce1f0a1581594832846-Roadster-Men-Tshirts-4501581594830605-1.jpg"
+    },
+    {
+      "id" : 9,
+      "name" : "Men Running Sleveless T-shirt",
+      "type" : "NO-Cotton",
+      "price" : 289,
+      "brand" : "HRX",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7231695/2019/2/7/48b78201-b421-439e-afb6-b637d3cacbfc1549546519557-HRX-by-Hrithik-Roshan-Men-Tshirts-8551549546517531-1.jpg"
+    },
+    {
+      "id" : 10,
+      "name" : "Typography printed t-shirt",
+      "type" : "NO-Cotton",
+      "price" : 472,
+      "brand" : "Huetrap",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg"
+    },
+    {
+      "id" : 11,
+      "name" : "HRX by Hritik Roshan",
+      "type" : "Cotton",
+      "price" : 349,
+      "brand" : "HRX",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700944/2022/3/2/093bc645-d461-4128-94a1-0692803944141646215571321-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Cotton-Pure-Cotton--1.jpg"
+    },
+    {
+      "id" : 12,
+      "name" : "Roadstar white T-shirt",
+      "type" : "Cotton",
+      "price" : 274,
+      "brand" : "Roadster",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2275365/2019/9/10/4f24f563-c764-4f27-9fc5-9ad3dcf167621568108715062-Roadster-Men-White-Solid-Round-Neck-T-shirt-1641568108713591-1.jpg"
+    },
+    {
+      "id" : 13,
+      "name" : "H&M white T-shirt",
+      "type" : "Cotton",
+      "price" : 399,
+      "brand" : "H&M",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/5/6/8cd552e0-3335-423a-9d15-7ef0a52c30a81620304671157-1.jpg"
+    },
+    {
+      "id" : 14,
+      "name" : "HRX by Hritik Roshan",
+      "type" : "Cotton",
+      "price" : 279,
+      "brand" : "HRX",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg"
+    },
+    {
+      "id" : 15,
+      "name" : "Men Typo Printed T-shirt",
+      "type" : "NO-Cotton",
+      "price" : 319,
+      "brand" : "Roadster",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1997244/2022/5/27/bf0e755f-1940-4a1d-8fb2-85b327deea981653647065669-Roadster-Men-Grey-Melange-All-Over-Printed-T-shirt-331653647-1.jpg"
+    },
+    {
+      "id" : 16,
+      "name" : "Solid Round neck t-shirt",
+      "type" : "NO-Cotton",
+      "price" : 188,
+      "brand" : "HEAR&NOW",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12787018/2020/11/26/68fe415e-d7b0-40fd-b065-e379508f94ef1606391813863-HERENOW-Men-Tshirts-91606391812648-1.jpg"
+    },
+    {
+      "id" : 17,
+      "name" : "Men pure Cotton t-shirt",
+      "type" : "Cotton",
+      "price" : 1559,
+      "brand" : "Nautica",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11487342/2020/6/17/e3958d19-7c4b-49ce-8a5c-e82ed6e6ef321592396334332-Nautica-Men-Tshirts-721592396332125-1.jpg"
+    },
+    {
+      "id" : 18,
+      "name" : "Printed Rround Neck T-Shirt",
+      "type" : "NO-Cotton",
+      "price" : 398,
+      "brand" : "Roadster",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10940528/2020/2/13/3e484090-d487-4252-9f30-beab10ce1f0a1581594832846-Roadster-Men-Tshirts-4501581594830605-1.jpg"
+    },
+    {
+      "id" : 19,
+      "name" : "Men Running Sleveless T-shirt",
+      "type" : "NO-Cotton",
+      "price" : 289,
+      "brand" : "HRX",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7231695/2019/2/7/48b78201-b421-439e-afb6-b637d3cacbfc1549546519557-HRX-by-Hrithik-Roshan-Men-Tshirts-8551549546517531-1.jpg"
+    },
+    {
+      "id" : 20,
+      "name" : "Typography printed t-shirt",
+      "type" : "NO-Cotton",
+      "price" : 472,
+      "brand" : "Huetrap",
+      "url" : "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg"
+    }
+  ]
+}
